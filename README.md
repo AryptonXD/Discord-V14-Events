@@ -6,7 +6,7 @@ An overview of all events in Discord.js v14 with examples.
 
 ℹ️ | `client` references to your client instance.
 
-ℹ️ | The v13 overview can be found [here](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906).
+ℹ️ | The v13 overview can be found [here](https://github.com/AryptonXD/Discord-V13-Events).
 
 ### Events
 
